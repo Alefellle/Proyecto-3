@@ -1,0 +1,17 @@
+header{
+    background-color: red;
+}
+a{
+    height: 20PX;
+    padding-left: 5%;
+    color: black;
+    text-decoration: none;
+}
+a:hover{
+    background-color: blue;
+}
+
+#Caboverde{
+    width: 100%;
+    text-align: center;
+}
